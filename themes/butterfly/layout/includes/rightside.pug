@@ -30,6 +30,9 @@ mixin rightsideItem(array)
         if commentsJsLoad
           button#to_comment(type="button" title=_p("rightside.scroll_to_comment") onclick="FixedCommentBtn();")
             i.fas.fa-comments
+          button#switch_commentBarrage(type="button" onclick="switchCommentBarrage();" title="开关弹幕")
+            svg(viewBox='0 0 1024 1024')
+              use#modeicon(xlink:href='#icon-danmu')
 
 #rightside
   - const { enable, hide, show } = theme.rightside_item_order
