@@ -1,0 +1,73 @@
+# siteshot就是站点缩略图的链接。
+
+# VIP用户
+#朋友
+
+- class_name: 小屋の朋友
+  class_desc: 屋里暖和哦2333
+  link_list:
+    - name: Akilar
+      link: https://akilar.top/
+      avatar: https://img.dreamfall.cn/friend/avatar/akilar.webp
+      descr: 欢迎光临糖果屋
+      siteshot: https://img.dreamfall.cn/friend/siteshot/akilar.top.webp
+    - name: 爱 rua 猫的李同学
+      link: https://www.qxxmx.com/
+      avatar: https://img.dreamfall.cn/friend/avatar/qxxmx.webp
+      descr: 分享技术、记录学习、乐于生活
+      siteshot: https://img.dreamfall.cn/friend/siteshot/qxxmx.com.webp
+    - name: 二次寒树
+      link: https://echs.top/
+      avatar: https://img.dreamfall.cn/friend/avatar/echs.webp
+      descr: 有时分享也是一种快乐
+      siteshot: https://img.dreamfall.cn/friend/siteshot/echs.top.webp
+    - name: FantasyLand の 暗梦
+      link: https://darkace.xyz/
+      avatar: https://img.dreamfall.cn/friend/avatar/darkace.webp
+      descr: 人生は遊びのようなものであり、物語は詩のようなものです
+      siteshot: https://img.dreamfall.cn/friend/siteshot/darkace.xyz.webp
+    - name: 高先生笔记
+      link: https://www.gxsnote.cn/
+      avatar: https://img.dreamfall.cn/friend/avatar/gxsnote.webp
+      descr: 个人笔记，网站建设等，致力创造一个高质量分享平台
+      siteshot: https://img.dreamfall.cn/friend/siteshot/gxsnote.cn.webp
+    - name: LYXの小破站
+      link: https://yisous.xyz/
+      avatar: https://img.dreamfall.cn/friend/avatar/yisous.webp
+      descr: 	人有悲欢离合 月有阴晴圆缺
+      siteshot: https://img.dreamfall.cn/friend/siteshot/yisous.xyz.webp
+    - name: MTBlack - 你我皆是黑马！
+      link: https://www.lcoo.cc/
+      avatar: https://img.dreamfall.cn/friend/avatar/lcoo.webp
+      descr: 给时光以岁月，给岁月以文明。
+      siteshot: https://img.dreamfall.cn/friend/siteshot/lcoo.cc.webp
+    - name: StarYuhen
+      link: https://www.yuhenm.com/
+      avatar: https://img.dreamfall.cn/friend/avatar/yuhenm.webp
+      descr: 好神秘的一个人
+      siteshot: https://img.dreamfall.cn/friend/siteshot/yuhenm.com.webp
+    - name: 我曾踏足山巅丶
+      link: https://blog.unanaos.com/
+      avatar: https://img.dreamfall.cn/friend/avatar/unanaos.webp
+      descr: 晨钟暮鼓 震悟大千
+      siteshot: https://img.dreamfall.cn/friend/siteshot/blog.unanaos.com.webp
+    - name: 忘忧草の小破站
+      link: https://owo.wyc.rest/
+      avatar: https://img.dreamfall.cn/friend/avatar/wyc.webp
+      descr: 这只是一个小破站而已！
+      siteshot: https://img.dreamfall.cn/friend/siteshot/owo.wyc.rest.webp
+    - name: 杏铃の小本
+      link: https://xn--8qvt52h.top/
+      avatar: https://img.dreamfall.cn/friend/avatar/xn--8qvt52h.webp
+      descr: 一份分享教程,游戏的礼物✧(≖ ◡ ≖✿)
+      siteshot: https://img.dreamfall.cn/friend/siteshot/xn--8qvt52h.top.webp
+    - name: 落雪の Cat
+      link: https://blog.sayhi.moe/
+      avatar: https://img.dreamfall.cn/friend/avatar/sayhi.webp
+      descr: 好神秘的一个人
+      siteshot: https://img.dreamfall.cn/friend/siteshot/blog.sayhi.moe.webp
+    - name: 小曦同桌
+      link: https://www.sakuracio.com/
+      avatar: https://img.dreamfall.cn/friend/avatar/sakuracio.webp
+      descr: 好神秘的一个人
+      siteshot: https://img.dreamfall.cn/friend/siteshot/sakuracio.com.webp

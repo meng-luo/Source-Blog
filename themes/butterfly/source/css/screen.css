@@ -1,0 +1,28 @@
+.layout{
+  max-width:1400px !important;
+}
+
+.aside-content{
+  max-width:312px;
+  min-width:300px;
+}
+
+.tk-row {
+  width: auto;
+}
+
+#archive,#page,#category,#tag{
+  width:100%;
+}
+.page:not(.page.home) .aside-content{
+  display: none;
+}
+
+.flink-list-item{
+  width:calc(100% / 4 - 15px)!important;
+}
+@media screen and (max-width: 1250px) {
+  .flink-list-item{
+      width:calc(100% / 3 - 15px)!important;
+  }
+}
