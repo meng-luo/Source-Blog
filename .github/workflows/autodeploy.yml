@@ -12,6 +12,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment: secrets
     steps:
     - name: 检查分支
       uses: actions/checkout@v2
@@ -21,12 +22,12 @@ jobs:
     - name: 安装 Node
       uses: actions/setup-node@v1
       with:
-        node-version: "12.x"
+        node-version: "16.x"
 
     - name: 安装 Hexo
       run: |
         export TZ='Asia/Shanghai'
-        npm install hexo-cli -g
+        npm install hexo-cli@4.3.0 -g
 
     - name: 缓存 Hexo
       uses: actions/cache@v1
@@ -57,7 +58,5 @@ jobs:
         git add .
         git commit -m "${{ github.event.head_commit.message }} $(date +"%Z %Y-%m-%d %A %H:%M:%S") Updated By Github Actions"
         git push --force --quiet "https://${{ secrets.GITHUBUSERNAME }}:${{ secrets.GITHUBTOKEN }}@github.com/${{ secrets.GITHUBUSERNAME }}/${{ secrets.GITHUBUSERNAME }}.github.io.git" master:master
-        git push --force --quiet "https://${{ secrets.TOKENUSER }}:${{ secrets.CODINGTOKEN }}@e.coding.net/${{ secrets.CODINGUSERNAME }}/${{  secrets.CODINGBLOGREPO }}.git" master:master
-        git push --force --quiet "https://${{ secrets.GITEEUSERNAME }}:${{ secrets.GITEETOKEN }}@gitee.com/${{ secrets.GITEEUSERNAME }}/${{ secrets.GITEEUSERNAME }}.git" master:master
 
     #同步到gitee这一步，如果上面写了推送到gitee仓库的git push指令了，那同步到 Gitee 这一块就不需要了。
