@@ -184,18 +184,24 @@ swiper:
 
 bangumi: # 追番设置
   enable: true
-  source: bili
+  source: bgm
   path:
-  vmid: 380535457
+  vmid: 603635
   title: '追番列表'
   quote: '生命不息，追番不止！'
   show: 1
   lazyload: false
   loading:
+  showMyComment: false
+  pagination: true
   metaColor:
   color:
   webp:
   progress:
+  extraOrder:
+  proxy:
+    host: '127.0.0.1'
+    port: '7890'
   extra_options:
     key: value
 cinema: # 追剧设置
@@ -210,7 +216,8 @@ cinema: # 追剧设置
   metaColor:
   color:
   webp:
-  progress:
+  progress: true
+  extraOrder:
   extra_options:
     key: value
 
