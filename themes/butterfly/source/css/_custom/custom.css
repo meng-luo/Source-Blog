@@ -10,6 +10,6 @@ a.categoryBar-list-link {
 
 @font-face{
   font-family:'Harmony' ;  /* 字体名自定义即可 */
-  src:url('https://img.dreamfall.cn/blog/HarmonyOS.woff2'); /* 字体文件路径 */
+  src:url('https://cdn2.mengluo.work/HarmonyOS.woff2'); /* 字体文件路径 */
   font-display : swap;
 }
