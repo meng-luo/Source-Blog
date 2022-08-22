@@ -9,7 +9,7 @@
 menu:
   首页: / || icon-shouye
   导航 || icon-daohang:
-    主页: https://dreamfall.cn || icon-zhuye
+    主页: https://mengluo.work || icon-zhuye
     导航: https://nav-mu.vercel.app || icon-daohang
     关于我: https://home-beta-eight.vercel.app || icon-guanyuwomen
     网盘: https://pan.dreamfall.cn || icon-a-wangpancunchuyingpandiqiu
@@ -43,6 +43,7 @@ categoryBar:
     - url('https://img.dreamfall.cn/blog/classification-1.webp')
     - url('https://img.dreamfall.cn/blog/classification-2.webp')
     - url('https://img.dreamfall.cn/blog/classification-3.webp')
+    - url('https://img.dreamfall.cn/blog/classification-4.webp')
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -984,8 +985,8 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <script>!function(p){"use strict";!function(t){var s=window,e=document,i=p,c="".concat("https:"===e.location.protocol?"https://":"http://","sdk.51.la/js-sdk-pro.min.js"),n=e.createElement("script"),r=e.getElementsByTagName("script")[0];n.type="text/javascript",n.setAttribute("charset","UTF-8"),n.async=!0,n.src=c,n.id="LA_COLLECT",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:"JfxdPlPgJn69L5Ul",ck:"JfxdPlPgJn69L5Ul",hashMode:true});</script>
-    - <script>!(function(c,i,e,b){var h=i.createElement("script");var f=i.getElementsByTagName("script")[0];h.type="text/javascript";h.crossorigin=true;h.onload=function(){new c[b]["Monitor"]().init({id:"Jfxdko5pT9s5SEQh",sendSpaPv:true})};f.parentNode.insertBefore(h,f);h.src=e})(window,document,"https://sdk.51.la/perf/js-sdk-perf.min.js","LingQue");</script>
+    - <script>!function(p){"use strict";!function(t){var s=window,e=document,i=p,c="".concat("https:"===e.location.protocol?"https://":"http://","sdk.51.la/js-sdk-pro.min.js"),n=e.createElement("script"),r=e.getElementsByTagName("script")[0];n.type="text/javascript",n.setAttribute("charset","UTF-8"),n.async=!0,n.src=c,n.id="LA_COLLECT",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:"JfxdPlPgJn69L5Ul",ck:"JfxdPlPgJn69L5Ul"});</script>
+    - <script>!(function(c,i,e,b){var h=i.createElement("script");var f=i.getElementsByTagName("script")[0];h.type="text/javascript";h.crossorigin=true;h.onload=function(){new c[b]["Monitor"]().init({id:"Jfxdko5pT9s5SEQh"})};f.parentNode.insertBefore(h,f);h.src=e})(window,document,"https://sdk.51.la/perf/js-sdk-perf.min.js","LingQue");</script>
     - <link rel="stylesheet" href="https://cdn.dreamfall.cn/css/screen.css">
     - <style id="barragesColor"></style>
   bottom:

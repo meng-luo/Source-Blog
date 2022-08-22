@@ -70,3 +70,8 @@ textarea.el-textarea__inner{
 button.aplayer-icon{
     cursor: url('https://img.dreamfall.cn/blog/cursor/link.cur'),auto !important;
 }
+
+/* 分类高度 */
+.categoryBar-list{
+    max-height: 390px !important;
+}
