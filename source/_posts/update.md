@@ -10,7 +10,7 @@ description: 我博客的更新
 keywords: HEXO,日记
 cover: https://img.dreamfall.cn/cover/8.webp
 date: 2022-08-22 17:54:00
-updated: 2022-08-22 17:54:00
+updated: 2022-08-23 16:24:00
 swiper_index: 2
 top: 1
 ---
@@ -20,6 +20,10 @@ top: 1
 日记的起点：2022年8月22日，我决定将博客彻底开源之日
 
 > 关于以前的魔改我已无法回忆，就当作这是一次崭新的开始吧
+
+{% folding cyan open, 2022年 %}
+
+{% folding yellow open, 8月 %}
 
 {% timeline 更新日记,blue %}
 
@@ -55,4 +59,14 @@ top: 1
 
 <!-- endtimeline -->
 
+<!-- timeline 2022-08-23 -->
+
+1. 使用sw缓存css和js
+2. 新增离线页面，可在断网时访问
+
+<!-- endtimeline -->
 {% endtimeline %}
+
+{% endfolding %}
+
+{% endfolding %}

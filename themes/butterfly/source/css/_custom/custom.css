@@ -13,3 +13,8 @@ a.categoryBar-list-link {
   src:url('https://cdn2.mengluo.work/HarmonyOS.woff2'); /* 字体文件路径 */
   font-display : swap;
 }
+
+/* 分类高度 */
+.categoryBar-list{
+    max-height: 195px !important;
+}
