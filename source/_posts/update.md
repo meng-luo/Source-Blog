@@ -10,7 +10,7 @@ description: 我博客的更新
 keywords: HEXO,日记
 cover: https://img.dreamfall.cn/cover/8.webp
 date: 2022-08-22 17:54:00
-updated: 2022-08-23 16:24:00
+updated: 2022-08-25 20:06:00
 swiper_index: 2
 top: 1
 ---
@@ -63,6 +63,14 @@ top: 1
 
 1. 使用sw缓存css和js
 2. 新增离线页面，可在断网时访问
+
+<!-- endtimeline -->
+
+<!-- timeline 2022-08-25 -->
+
+1. 增加侧边栏天气
+2. 评论系统新增输入提示
+3. [关于页](https://blog.dreamfall.cn/about/)新增访客统计
 
 <!-- endtimeline -->
 {% endtimeline %}

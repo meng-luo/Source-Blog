@@ -56,7 +56,6 @@ highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
 highlight_height_limit: 200 # unit: px
-code_word_wrap: true
 
 # copy settings
 # copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
@@ -766,6 +765,9 @@ aside:
     last_push_date: true
     sort_order: # Don't modify the setting unless you know how it works
   card_ip: true
+  card_weather:
+    enable: true
+    key: 416864143a6749ecbc799601de3c975f #你开始获取的key
 
 #侧栏悬浮卡片控制按钮
 #https://akilar.top/posts/451ac5f8/
