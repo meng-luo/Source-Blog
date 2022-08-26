@@ -3,7 +3,7 @@ title: 使用手机+termux实现挖矿
 date: 2021-7-27 16:42:05
 updated: 2022-2-5 10:04:05
 categories:
-- [教程, termux]
+- 教程
 tags:
 - termux
 - 教程

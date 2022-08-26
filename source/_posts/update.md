@@ -5,12 +5,13 @@ tags:
 - 日记
 - 博客
 categories: 
-- [日记, Hexo]
+- 日记
+- Hexo
 description: 我博客的更新
 keywords: HEXO,日记
 cover: https://img.dreamfall.cn/cover/8.webp
 date: 2022-08-22 17:54:00
-updated: 2022-08-25 20:06:00
+updated: 2022-08-26 21:48:00
 swiper_index: 2
 top: 1
 ---
@@ -71,6 +72,15 @@ top: 1
 1. 增加侧边栏天气
 2. 评论系统新增输入提示
 3. [关于页](https://blog.dreamfall.cn/about/)新增访客统计
+
+<!-- endtimeline -->
+
+<!-- timeline 2022-08-26 -->
+
+1. 修改主页归档布局
+2. 分类标签归档页增加文章索引
+3. 标签云增加文章数上下标
+4. 修改主页卡片样式
 
 <!-- endtimeline -->
 {% endtimeline %}

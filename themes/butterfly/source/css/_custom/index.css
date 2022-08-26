@@ -1,0 +1,41 @@
+/* 侧边栏分类 */
+#aside-content .card-archives ul.card-archive-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+li.card-archive-list-item {
+  width: 100%;
+  flex: 0 0 48%;
+}
+
+span.card-archive-list-count {
+  width: auto;
+  text-align: left;
+  font-size: 1.2rem;
+  line-height: .9;
+  font-weight: 700;
+}
+
+span.card-archive-list-count-unit {
+  width: auto;
+  text-align: left;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+#aside-content .card-archives ul.card-archive-list>.card-archive-list-item a {
+  border-radius: 8px;
+  margin: 4px 0;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  border: 1px solid var(--cyan-theme-color);
+}
+
+#aside-content .card-archives ul.card-archive-list>.card-archive-list-item a:hover {
+  background-color: var(--cyan-theme-color);
+  color: #fff;
+}

@@ -5,7 +5,8 @@ tags:
 - 教程
 - 博客
 categories: 
-- [教程, Hexo]
+- 教程
+- Hexo
 description: 我博客的详细搭建过程
 keywords: HEXO,教程
 cover: https://img.dreamfall.cn/cover/2.webp

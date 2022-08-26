@@ -3,14 +3,13 @@ title: 我的QQ机器人摸索之路
 date: 2021-10-28 00:35:25
 updated: 2022-05-01 15:47:25
 categories:
-- [教程, Bot]
+- 教程
 tags:
 - QQ
 - Bot
 keywords: qq机器人
 cover: https://img.dreamfall.cn/cover/5.webp
 description: 现在是可以差不多正常工作了
-swiper_index: 1
 ---
 
 ## 体验
