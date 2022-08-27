@@ -83,7 +83,7 @@ gitcalendar:
   #canvas：dom数少，但图像会发生模糊，自适应一般
   #svg：dom数多，图像清晰，自适应更佳
   user: meng-luo #这里填写你的github用户名
-  apiurl: gitcalendar.meng-luo.vercel.app # 留空为默认公共API，自建api内容详见下节
+  apiurl: gitcalendar.dreamfall.cn # 留空为默认公共API，自建api内容详见下节
   # 以下色调选择喜欢的一行保留即可。其余注释。
   color: "['#e5e7eb', '#ffcce0', '#ffb8d4', '#ffa8cb', '#ff94bf', '#ff80b3', '#ff70a9', '#ff61a0', '#ff579a', '#ff4d94', '#ff3d8b']"
   # color: "['#ebedf0', '#fdcdec', '#fc9bd9', '#fa6ac5', '#f838b2', '#f5089f', '#c4067e', '#92055e', '#540336', '#48022f', '#30021f']" #浅紫色调

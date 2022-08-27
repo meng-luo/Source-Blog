@@ -13,7 +13,7 @@ cover: https://img.dreamfall.cn/cover/8.webp
 date: 2022-08-22 17:54:00
 updated: 2022-08-26 21:48:00
 swiper_index: 2
-top: 1
+sticky: 1
 ---
 
 是时候要给自己的博客写更新日记了，不然连自己改了什么都不知道~~(我不是鸽子)~~
