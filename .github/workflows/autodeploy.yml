@@ -59,5 +59,3 @@ jobs:
         git add .
         git commit -m "每日构建 $(date +"%Z %Y-%m-%d %A %H:%M:%S") Updated By Github Actions"
         git push --force --quiet "https://${{ secrets.GITHUBUSERNAME }}:${{ secrets.GITHUBTOKEN }}@github.com/${{ secrets.GITHUBUSERNAME }}/${{ secrets.GITHUBUSERNAME }}.github.io.git" master:master
-
-    #同步到gitee这一步，如果上面写了推送到gitee仓库的git push指令了，那同步到 Gitee 这一块就不需要了。
