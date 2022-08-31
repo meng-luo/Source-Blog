@@ -7,7 +7,7 @@ tags:
 categories: 
 - 日记
 - Hexo
-description: 我博客的更新
+description: 我博客的更新,记录每一次折腾
 keywords: HEXO,日记
 cover: https://img.dreamfall.cn/cover/8.webp
 date: 2022-08-22 17:54:00

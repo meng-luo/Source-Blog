@@ -26,7 +26,7 @@ Zerotier是一款用于构建异地虚拟局域网的工具，让你在世界任
 在里面你可自由的配置'Name'网络名称（一点用都没有）、'Access Contral'访问权限（肯定是私人啦）、路由地址和管理你的客户端（反正自定义程度比起蒲公英很高就对了）
 ### Linux
 Linux提供了官方的安装脚本和docker两种方式
-{% tabs linux, -1 %}
+{% tabs linux %}
 <!-- tab 脚本@fab fa-linux -->
 如果您是基于 Debian 和 RPM 的发行版，包括 Debian、Ubuntu、CentOS、RHEL、Fedora 等可以直接在终端中执行下面命令
 ```sh

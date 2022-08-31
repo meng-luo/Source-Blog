@@ -5,7 +5,7 @@ tags:
 - 云函数
 categories:
 - [教程]
-description: b站的新番越来越少了。只能去港澳台逛逛了
+description: b站的新番越来越少了，只能去港澳台逛逛了，比起一些小网站的确还挺好用的。
 keywords: 哔哩哔哩, 阿里云, 云函数, 教程
 cover: https://img.dreamfall.cn/cover/9.webp
 date: 2022-08-26 14:33:00
