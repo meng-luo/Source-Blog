@@ -60,7 +60,7 @@ jobs:
         git commit -m "每日构建 $(date +"%Z %Y-%m-%d %A %H:%M:%S") Updated By Github Actions"
         git push --force --quiet "https://${{ secrets.GITHUBUSERNAME }}:${{ secrets.GITHUBTOKEN }}@github.com/${{ secrets.GITHUBUSERNAME }}/${{ secrets.GITHUBUSERNAME }}.github.io.git" master:master
         
-   - name: 同步到 Gitee
+    - name: 同步到 Gitee
       uses: wearerequired/git-mirror-action@master
       env:
           # 注意在github私有仓库的Settings->Secrets 配置 GITEE_RSA_PRIVATE_KEY
