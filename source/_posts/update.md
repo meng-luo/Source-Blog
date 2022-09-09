@@ -11,7 +11,7 @@ description: 我博客的更新,记录每一次折腾
 keywords: HEXO,日记
 cover: https://img.dreamfall.cn/cover/8.webp
 date: 2022-08-22 17:54:00
-updated: 2022-08-26 21:48:00
+updated: 2022-09-09 10:31:00
 swiper_index: 2
 sticky: 1
 ---
@@ -81,6 +81,20 @@ sticky: 1
 2. 分类标签归档页增加文章索引
 3. 标签云增加文章数上下标
 4. 修改主页卡片样式
+
+<!-- endtimeline -->
+
+<!-- timeline 2022-08-29 -->
+
+1. 修改离线页面
+2. 新增vercel镜像站支持
+3. 新增azure镜像站支持
+
+<!-- endtimeline -->
+
+<!-- timeline 2022-09-09 -->
+
+1. 新增gitee镜像站支持
 
 <!-- endtimeline -->
 {% endtimeline %}
