@@ -16,4 +16,4 @@ description: 梦落の小屋 离线页面
 
 如果您确认网络没有问题，可以向`admin@mengluo.work`发送邮件反馈
 
-可前往 [**梦璃雨落 站点监测**](https://status.mengluo.work/) 查看故障详情或反馈，也可手动暂时访问镜像站点：[vercel](https://vercel.mengluo.tk/) | [Azure](azure.mengluo.tk) | [github](https://github.mengluo.tk)，感谢您的支持与理解！
+可前往 [**梦璃雨落 站点监测**](https://status.mengluo.work/) 查看故障详情或反馈，也可手动暂时访问镜像站点：[gitee](https://meng-luo.gitee.com) | [vercel](https://vercel.mengluo.tk/) | [Azure](azure.mengluo.tk) | [github](https://github.mengluo.tk)，感谢您的支持与理解！

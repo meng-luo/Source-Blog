@@ -59,7 +59,10 @@ jobs:
         git add .
         git commit -m "每日构建 $(date +"%Z %Y-%m-%d %A %H:%M:%S") Updated By Github Actions"
         git push --force --quiet "https://${{ secrets.GITHUBUSERNAME }}:${{ secrets.GITHUBTOKEN }}@github.com/${{ secrets.GITHUBUSERNAME }}/${{ secrets.GITHUBUSERNAME }}.github.io.git" master:master
-        git push --force --quiet "https://${{ secrets.GITEEUSERNAME }}:${{ secrets.GITEETOKEN }}@gitee.com/${{ secrets.GITEEUSERNAME }}/${{ secrets.GITEEREPOSITORY }}.git" master:master
+        rm bangumis.json
+        git add .
+        git commit -m "每日构建 $(date +"%Z %Y-%m-%d %A %H:%M:%S") Updated By Github Actions"
+        git push --force --quiet "https://${{ secrets.GITEEUSERNAME }}:${{ secrets.GITEETOKEN }}@gitee.com/${{ secrets.GITEEUSERNAME }}/${{ secrets.GITEEUSERNAME }}.git" master:master
 
     - name: 构建 Gitee Pages
       uses: yanglbme/gitee-pages-action@master
@@ -69,4 +72,4 @@ jobs:
           # 注意在在github私有仓库的Settings->Secrets 配置 GITEE_PASSWORD
           gitee-password: ${{ secrets.GITEE_PASSWORD }}
           # 注意替换为你的 Gitee 仓库
-          gitee-repo: ${{ secrets.GITEEUSERNAME }}/${{ secrets.GITEEREPOSITORY }}
+          gitee-repo: ${{ secrets.GITEEUSERNAME }}/${{ secrets.GITEEUSERNAME }}
