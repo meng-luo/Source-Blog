@@ -3,10 +3,9 @@ title: 使用手机+termux实现挖矿
 date: 2021-7-27 16:42:05
 updated: 2022-2-5 10:04:05
 categories:
-- 教程
+- [教程,Termux]
 tags:
 - termux
-- 教程
 keywords: 挖矿
 cover: https://img.dreamfall.cn/cover/4.webp
 description: 这年头什么都能挖矿，也不知道啥时候能消停

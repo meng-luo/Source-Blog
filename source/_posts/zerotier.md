@@ -3,7 +3,7 @@ title: ZeroTier：也许是最好的异地组网解决方案
 date: 2022-06-14 00:00:25
 updated: 2022-06-14 00:00:25
 categories:
-- 教程
+- [教程,网络]
 tags:
 - 网络
 keywords: 异地组网, ZeroTier, 内网穿透

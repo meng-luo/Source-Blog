@@ -1,10 +1,9 @@
 ---
 title: 利用阿里云函数免费解除b站区域限制
 tags:
-- 教程
 - 云函数
 categories:
-- [教程]
+- [教程,云函数]
 description: b站的新番越来越少了，只能去港澳台逛逛了，比起一些小网站的确还挺好用的。
 keywords: 哔哩哔哩, 阿里云, 云函数, 教程
 cover: https://img.dreamfall.cn/cover/9.webp

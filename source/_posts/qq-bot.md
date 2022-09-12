@@ -3,7 +3,7 @@ title: 我的QQ机器人摸索之路
 date: 2021-10-28 00:35:25
 updated: 2022-05-01 15:47:25
 categories:
-- 教程
+- [教程,机器人]
 tags:
 - QQ
 - Bot

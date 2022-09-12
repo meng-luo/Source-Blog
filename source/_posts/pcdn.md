@@ -3,7 +3,7 @@ title: PCDN：快拿闲置宽带赚钱吧
 date: 2022-05-01 13:56:25
 updated: 2022-05-01 13:57:25
 categories:
-- 折腾日记
+- 日记
 tags:
 - PCDN
 keywords: pcdn

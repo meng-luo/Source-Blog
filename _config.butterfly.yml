@@ -996,6 +996,7 @@ inject:
   bottom:
     # - <script src="xxxx"></script>
     - <script>function loadScript(src,callback){var script=document.createElement('script'),head=document.getElementsByTagName('head')[0];script.type='text/javascript';script.charset='UTF-8';script.src=src;if(script.addEventListener){script.addEventListener('load',function(){callback()},false)}else if(script.attachEvent){script.attachEvent('onreadystatechange',function(){var target=window.event.srcElement;if(target.readyState=='loaded'){callback()}})}head.appendChild(script)}</script>
+    - <script>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/custom.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/custom/cdiytitle.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('//at.alicdn.com/t/c/font_3174709_ma4dixly8v.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('//at.alicdn.com/t/font_2264842_3izu8i5eoc2.js',()=>{})},0)</script>

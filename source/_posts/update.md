@@ -6,12 +6,11 @@ tags:
 - 博客
 categories: 
 - 日记
-- Hexo
 description: 我博客的更新,记录每一次折腾
 keywords: HEXO,日记
 cover: https://img.dreamfall.cn/cover/8.webp
 date: 2022-08-22 17:54:00
-updated: 2022-09-09 10:31:00
+updated: 2022-09-12 11:31:00
 swiper_index: 2
 sticky: 1
 ---
@@ -24,7 +23,7 @@ sticky: 1
 
 {% folding cyan open, 2022年 %}
 
-{% folding yellow open, 8月 %}
+{% folding yellow, 8月 %}
 
 {% timeline 更新日记,blue %}
 
@@ -92,11 +91,26 @@ sticky: 1
 
 <!-- endtimeline -->
 
+{% endtimeline %}
+
+{% endfolding %}
+
+{% folding blue open, 9月 %}
+
+{% timeline 更新日记,green %}
+
 <!-- timeline 2022-09-09 -->
 
 1. 新增gitee镜像站支持
 
 <!-- endtimeline -->
+
+<!-- timeline 2022-09-12 -->
+
+1. 返回顶部显示网页阅读进度
+
+<!-- endtimeline -->
+
 {% endtimeline %}
 
 {% endfolding %}

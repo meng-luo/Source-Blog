@@ -1,10 +1,9 @@
 ---
 title: 快来自定义你的adobe启动图吧
 tags:
-- 教程
 - Adobe
 categories: 
-- [教程]
+- [教程,Adobe]
 description: 作为一名老 二刺 螈，电脑当然也要充满了 二刺螈 气息(
 keywords: Adobe, 教程
 cover: https://img.dreamfall.cn/cover/10.webp
