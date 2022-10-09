@@ -236,18 +236,4 @@ feed:
 aplayer:
   meting: true
   asset_inject: false
-  
-# fcircle
-# see https://akilar.top/posts/8480b91c/
-fcircle:
-  enable: true #控制开关
-  apiurl: https://friend.dreamfall.cn/all #api地址
-  initnumber: 20 #【可选】页面初始化展示文章数量
-  stepnumber: 10 #【可选】每次加载增加的篇数
-  css: https://cdn.dreamfall.cn/hexo-filter-fcircle/assets/css/butterfly.css #【可选】开发者接口，自定义css链接
-  js: https://cdn.dreamfall.cn/hexo-filter-fcircle/assets/js/fcircle.js #【可选】开发者接口，自定义js链接
-  fetchJS: https://cdn.dreamfall.cn/hexo-filter-fcircle/assets/js/fetch.js #可选】开发者接口，自定义fetchJs链接
-  path: #【可选】fcircle的路径名称。默认为 fcircle，生成的页面为 fcircle/index.html
-  front_matter: #【可选】fcircle页面的 front_matter 配置
-    title: 朋友圈
-    comments: false
+
