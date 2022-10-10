@@ -2,7 +2,9 @@
 
 ### 由于开启了防盗链，可能无法直接使用
 
-## 许可证 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## 文章许可证 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## 源码许可证 **GNU Affero General Public License v3.0**
 
 ## 鸣谢
 
