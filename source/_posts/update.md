@@ -25,7 +25,7 @@ sticky: 1
 
 {% folding yellow, 8月 %}
 
-{% timeline 更新日记,blue %}
+{% timeline 更新日记-8月,blue %}
 
 <!-- timeline 2022-08-19 -->
 
@@ -95,9 +95,9 @@ sticky: 1
 
 {% endfolding %}
 
-{% folding blue open, 9月 %}
+{% folding blue, 9月 %}
 
-{% timeline 更新日记,green %}
+{% timeline 更新日记-9月,green %}
 
 <!-- timeline 2022-09-09 -->
 
@@ -108,6 +108,20 @@ sticky: 1
 <!-- timeline 2022-09-12 -->
 
 1. 返回顶部显示网页阅读进度
+
+<!-- endtimeline -->
+
+{% endtimeline %}
+
+{% endfolding %}
+
+{% folding green open, 9月 %}
+
+{% timeline 更新日记-10月,yellow %}
+
+<!-- timeline 2022-10-29 -->
+
+1. 老旧浏览器弹窗提醒
 
 <!-- endtimeline -->
 
