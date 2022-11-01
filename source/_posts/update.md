@@ -115,13 +115,27 @@ sticky: 1
 
 {% endfolding %}
 
-{% folding green open, 9月 %}
+{% folding green, 9月 %}
 
 {% timeline 更新日记-10月,yellow %}
 
 <!-- timeline 2022-10-29 -->
 
 1. 老旧浏览器弹窗提醒
+
+<!-- endtimeline -->
+
+{% endtimeline %}
+
+{% endfolding %}
+
+{% folding yellow open, 10月 %}
+
+{% timeline 更新日记-10月,green %}
+
+<!-- timeline 2022-10-29 -->
+
+1. 更新友链朋友圈样式
 
 <!-- endtimeline -->
 
