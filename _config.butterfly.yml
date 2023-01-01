@@ -28,7 +28,7 @@ menu:
     音乐: /music/ || icon-yinle
     图片: /Gallery/ || icon-tupian
     视频: /movies/ || icon-shipin
-  关于: /about/ || icon-guanyu
+#  关于: /about/ || icon-guanyu
 
 categoryBar:
   enable: true

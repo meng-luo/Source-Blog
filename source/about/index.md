@@ -7,8 +7,6 @@ type: about
 
 这个人很懒，什么都没有留下
 
-**详细信息请前往 [关于页](https://home-beta-eight.vercel.app)**
-
 ~~就留下了了个鸟蛋~~
 
 ### 访问统计
