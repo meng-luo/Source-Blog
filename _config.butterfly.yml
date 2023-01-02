@@ -10,15 +10,15 @@ menu:
   首页: / || icon-shouye
   导航 || icon-daohang:
     主页: https://mengluo.work || icon-zhuye
-    导航: https://nav-mu.vercel.app || icon-daohang
-    关于我: https://home-beta-eight.vercel.app || icon-guanyuwomen
     网盘: https://pan.dreamfall.cn || icon-a-wangpancunchuyingpandiqiu
     网站监控: https://status.mengluo.work/status/web || icon-zhuangtaixinxi
+    播放器: https://player.mengluo.work || icon-Music
     服务器监控: https://server.mengluo.work || icon-server
   目录 || icon-mulu:
     时间轴: /archives/ || icon-fsux_tubiao_shijianzhoutu
     标签: /tags/ || icon-biaoqian
     分类: /categories/ || icon-fenlei
+  说说: /talks/ || icon-talk
   留言板: /comments/ || icon-xiewenzhang
   朋友圈: /fcircle/ || icon-friends
   友链: /link/ || icon-lianjie
@@ -26,8 +26,13 @@ menu:
     追番: /bangumis/ || icon-wodezhuifan
     追剧: /cinemas/ || icon-zhuizhuiju
     音乐: /music/ || icon-yinle
-    图片: /Gallery/ || icon-tupian
-    视频: /movies/ || icon-shipin
+  镜像站 || icon-jingxiang:
+    Vercel: https://vercel.mengluo.tk || icon-logo-vercel
+    Gitee: https://meng-luo.gitee.io || icon-gitee
+    Github: https://github.mengluo.tk || icon-github
+    Azure: https://azure.mengluo.tk || icon-azure
+  管理后台: https://admin.dreamfall.cn || icon-houtaiguanli
+
 #  关于: /about/ || icon-guanyu
 
 categoryBar:
@@ -46,6 +51,7 @@ categoryBar:
     - url('https://img.dreamfall.cn/blog/classification-2.webp')
     - url('https://img.dreamfall.cn/blog/classification-3.webp')
     - url('https://img.dreamfall.cn/blog/classification-4.webp')
+    - url('https://img.dreamfall.cn/blog/classification-5.webp')
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -135,7 +141,7 @@ avatar:
   effect: false
 
 # Disable all banner image
-disable_top_img: false
+disable_top_img: true
 
 # The banner image of home page
 index_img:
@@ -998,7 +1004,7 @@ inject:
     - <script>function loadScript(src,callback){var script=document.createElement('script'),head=document.getElementsByTagName('head')[0];script.type='text/javascript';script.charset='UTF-8';script.src=src;if(script.addEventListener){script.addEventListener('load',function(){callback()},false)}else if(script.attachEvent){script.attachEvent('onreadystatechange',function(){var target=window.event.srcElement;if(target.readyState=='loaded'){callback()}})}head.appendChild(script)}</script>
     - <script>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/custom.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/custom/cdiytitle.js',()=>{})},0)</script>
-    - <script>setTimeout(()=>{loadScript('//at.alicdn.com/t/c/font_3174709_ma4dixly8v.js',()=>{})},0)</script>
+    - <script>setTimeout(()=>{loadScript('//at.alicdn.com/t/c/font_3174709_evtoyjkred.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('//at.alicdn.com/t/font_2264842_3izu8i5eoc2.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/custom/fixed_comment.js',()=>{})},0)</script>
     - <script async src="https://pv.sohu.com/cityjson?ie=utf-8"></script>

@@ -1,27 +1,27 @@
 ---
-title: 博客魔改日记
+abbrlink: ''
+categories:
+- 日记
+cover: https://img.dreamfall.cn/cover/8.webp
+date: '2022-08-22 17:54:00'
+description: 我博客的更新,记录每一次折腾
+keywords: HEXO,日记
+sticky: 1
+swiper_index: 2
 tags:
 - HEXO
 - 日记
 - 博客
-categories: 
-- 日记
-description: 我博客的更新,记录每一次折腾
-keywords: HEXO,日记
-cover: https://img.dreamfall.cn/cover/8.webp
-date: 2022-08-22 17:54:00
-updated: 2022-09-12 11:31:00
-swiper_index: 2
-sticky: 1
+title: 博客魔改日记
+updated: '2023-01-02 23:02:37'
 ---
-
 是时候要给自己的博客写更新日记了，不然连自己改了什么都不知道~~(我不是鸽子)~~
 
 日记的起点：2022年8月22日，我决定将博客彻底开源之日
 
 > 关于以前的魔改我已无法回忆，就当作这是一次崭新的开始吧
 
-{% folding cyan open, 2022年 %}
+{% folding cyan, 2022年 %}
 
 {% folding yellow, 8月 %}
 
@@ -129,11 +129,11 @@ sticky: 1
 
 {% endfolding %}
 
-{% folding yellow open, 10月 %}
+{% folding yellow, 11月 %}
 
-{% timeline 更新日记-10月,green %}
+{% timeline 更新日记-11月,green %}
 
-<!-- timeline 2022-10-29 -->
+<!-- timeline 2022-10-02 -->
 
 1. 更新友链朋友圈样式
 
@@ -144,3 +144,24 @@ sticky: 1
 {% endfolding %}
 
 {% endfolding %}
+
+{% folding blue open, 2023年 %}
+
+{% folding yellow open, 1月 %}
+
+{% timeline 更新日记-1月,green %}
+
+<!-- timeline 2023-01-02 -->
+
+1. 修改导航栏项目
+2. 给博客添加了后台，基于[Qexo](https://github.com/Qexo/Qexo)
+3. 添加[说说](https://blog.dreamfall.cn/talks/)
+
+<!-- endtimeline -->
+
+{% endtimeline %}
+
+{% endfolding %}
+
+{% endfolding %}
+

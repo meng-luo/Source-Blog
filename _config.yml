@@ -135,9 +135,9 @@ footer_beautify:
     - link: https://butterfly.js.org/
       shields: https://img.dreamfall.cn/blog/2.svg
       message: 主题版本Butterfly_v4.1.0
-    - link: https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral
-      shields: https://img.dreamfall.cn/blog/4.svg
-      message: 本站由又拍云提供CDN加速/云储存服务
+    - link: https://cloud.tencent.com/
+      shields: https://img.dreamfall.cn/blog/3.svg
+      message: 本站由腾讯云提供CDN加速/云储存服务
     - link: https://cloud.tencent.com/
       shields: https://img.dreamfall.cn/blog/3.svg
       message: 本站由腾讯云提供服务器和DNS解析
