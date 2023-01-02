@@ -1,1 +1,1 @@
-bash git.sh
+bash git.sh;
