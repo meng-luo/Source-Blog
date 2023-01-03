@@ -13,7 +13,7 @@ tags:
 - 日记
 - 博客
 title: 博客魔改日记
-updated: '2023-01-02 23:02:37'
+updated: '2023-01-03 12:37:42'
 ---
 是时候要给自己的博客写更新日记了，不然连自己改了什么都不知道~~(我不是鸽子)~~
 
@@ -156,6 +156,12 @@ updated: '2023-01-02 23:02:37'
 1. 修改导航栏项目
 2. 给博客添加了后台，基于[Qexo](https://github.com/Qexo/Qexo)
 3. 添加[说说](https://blog.dreamfall.cn/talks/)
+
+<!-- endtimeline -->
+
+<!-- timeline 2023-01-03 -->
+
+1. 修复了欢迎信息
 
 <!-- endtimeline -->
 
