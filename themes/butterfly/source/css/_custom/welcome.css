@@ -7,3 +7,11 @@
 [data-theme="dark"] #welcome-info {
   background: #212121;
 }
+
+#welcome-info > b > span:nth-child(5) {
+    color: blue!important;
+}
+
+#welcome-info > b > span:nth-child(4) {
+    color: blue!important;
+}
