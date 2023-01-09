@@ -31,9 +31,9 @@ menu:
     Gitee: https://meng-luo.gitee.io || icon-gitee
     Github: https://github.mengluo.tk || icon-github
     Azure: https://azure.mengluo.tk || icon-azure
+  关于: /about/ || icon-guanyu
   管理后台: https://admin.dreamfall.cn || icon-houtaiguanli
 
-#  关于: /about/ || icon-guanyu
 
 categoryBar:
   enable: true
