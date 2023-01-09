@@ -41,6 +41,11 @@
       avatar: https://img.dreamfall.cn/friend/avatar/gxsnote.webp
       descr: 个人笔记，网站建设等，致力创造一个高质量分享平台
       siteshot: https://img.dreamfall.cn/friend/siteshot/gxsnote.cn.webp
+    - name: hohoyun
+      link: http://www.hohoyun.cn
+      avatar: https://movie-zsh.oss-cn-beijing.aliyuncs.com/blog/hohoH.jpg
+      descr: Vue3 与 SpringBoot 的博客 模仿了 hexo 的 butterfly
+      siteshot: https://movie-zsh.oss-cn-beijing.aliyuncs.com/blog/blog/3.1Index.png
     - name: LanYunのBlog
       link: https://lanyundev.xyz/
       avatar: https://img.dreamfall.cn/friend/avatar/lanyundev.webp
