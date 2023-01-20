@@ -1,5 +1,5 @@
 ---
-title: 说说
+title: 视频
 date: 2023-01-20 15:09:39
 type: "video"
 ---
