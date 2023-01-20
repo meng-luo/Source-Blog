@@ -26,6 +26,7 @@ menu:
     追番: /bangumis/ || icon-wodezhuifan
     追剧: /cinemas/ || icon-zhuizhuiju
     音乐: /music/ || icon-yinle
+    视频: /video/ || icon-shipin
   镜像站 || icon-jingxiang:
     Vercel: https://vercel.mengluo.tk || icon-logo-vercel
     Gitee: https://meng-luo.gitee.io || icon-gitee
