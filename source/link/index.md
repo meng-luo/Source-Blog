@@ -10,7 +10,7 @@ type: 'link'
 站名: 梦落の小屋
 链接：https://blog.dreamfall.cn
 介绍: 因为不可能，所以才值得相信
-图标: https://img.dreamfall.cn/avatar.webp
+图标: https://img.mengluo.work/avatar.jpg
 ```
 
 ## 申请友链
