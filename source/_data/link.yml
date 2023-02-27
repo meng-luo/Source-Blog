@@ -50,11 +50,11 @@
       avatar: https://movie-zsh.oss-cn-beijing.aliyuncs.com/blog/hohoH.jpg
       descr: Vue3 与 SpringBoot 的博客 模仿了 hexo 的 butterfly
       siteshot: https://movie-zsh.oss-cn-beijing.aliyuncs.com/blog/blog/3.1Index.png
-    - name: LanYunのBlog
-      link: https://lanyundev.xyz/
-      avatar: https://img.dreamfall.cn/friend/avatar/lanyundev.webp
+    - name: LanYun の Blog
+      link: https://lanyundev.com/
+      avatar: https://lanyundev.com/img/logo.jpg.webp
       descr: Share Technology.
-      siteshot: https://img.dreamfall.cn/friend/siteshot/lanyundev.xyz.webp
+      siteshot: https://lanyundev.com/img/SiteScreenshot.png.webp 
     - name: 落雪の Cat
       link: https://blog.sayhi.moe/
       avatar: https://img.dreamfall.cn/friend/avatar/sayhi.webp
@@ -109,6 +109,11 @@
       avatar: https://img.dreamfall.cn/friend/avatar/zerolacqua.webp
       descr: 要来点喝的吗？
       siteshot: https://img.dreamfall.cn/friend/siteshot/zerolacqua.top.webp
+    - name: 糖茶砌站
+      link: https://www.yozk.cn
+      avatar: https://h1.yozk.cn/SugarBox/favicon/favicon.png
+      descr: 极具特色的软件网站
+      siteshot: https://h1.yozk.cn/SugarBox/Screenshot_2023_0215_074117.jpg
     - name: 我曾踏足山巅丶
       link: https://blog.unanaos.com/
       avatar: https://img.dreamfall.cn/friend/avatar/unanaos.webp
