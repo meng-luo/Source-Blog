@@ -510,7 +510,7 @@ footer:
   owner:
     enable: true
     since: 2021
-  custom_text: <a href="https://beian.miit.gov.cn">浙ICP备2021040035-1号</a> | <a href="https://icp.gov.moe/?keyword=20211214" target="_blank">萌ICP备20211214号</a>
+  custom_text: <a href="https://beian.miit.gov.cn">浙ICP备2021040035号-1</a> | <a href="https://icp.gov.moe/?keyword=20211214" target="_blank">萌ICP备20211214号</a>
   copyright: false # Copyright of theme and framewor
 
 # Analysis
