@@ -53,6 +53,7 @@ categoryBar:
     - url('https://img.dreamfall.cn/blog/classification-3.webp')
     - url('https://img.dreamfall.cn/blog/classification-4.webp')
     - url('https://img.dreamfall.cn/blog/classification-5.webp')
+    - url('https://img.dreamfall.cn/blog/classification-6.webp')
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false

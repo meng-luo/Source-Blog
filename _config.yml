@@ -191,7 +191,7 @@ bangumi: # 追番设置
   title: '追番列表'
   quote: '生命不息，追番不止！'
   show: 1
-  lazyload: true
+  lazyload: false
   srcValue: '__image__'
   lazyloadAttrName: 'data-src=__image__'
   loading:
@@ -214,7 +214,7 @@ cinema: # 追剧设置
   title: '追剧列表'
   quote: '生命不息，追剧不止！'
   show: 1
-  lazyload: true
+  lazyload: false
   srcValue: '__image__'
   lazyloadAttrName: 'data-src=__image__'
   loading:
