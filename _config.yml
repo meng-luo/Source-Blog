@@ -203,8 +203,8 @@ bangumi: # 追番设置
   progress:
   extraOrder:
   proxy:
-    host: '127.0.0.1'
-    port: '7890'
+    host: 
+    port: 
   extra_options:
     key: value
 cinema: # 追剧设置
