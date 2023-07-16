@@ -83,7 +83,7 @@ social:
   github: https://github.com/meng-luo || icon-github
   Email: mailto:guorongdan4506@163.com || icon-youxiang
   qq: https://wpa.qq.com/msgrd?v=3&uin=2593514967&site=qq&menu=yes || icon-QQ
-  rss: https://blog.dreamfall.cn/atom.xml || icon-RSS
+  rss: https://blog-old.dreamfall.cn/atom.xml || icon-RSS
 
 #gitcalendar
 gitcalendar:
@@ -764,7 +764,7 @@ aside:
       link: https://jq.qq.com/?_wv=1027&k=UxUgYVV9
   card_announcement:
     enable: true
-    content: 有什么问题可以添加QQ群：<a href="https://jq.qq.com/?_wv=1027&k=UxUgYVV9">713320302</a><br>没有问题也可以进来闲聊哦~<br>欢迎访问我的<a href="https://pan.dreamfall.cn">“网盘”</a><br>本站已开通<a href="https://blog.dreamfall.cn/atom.xml">RSS推送</a>
+    content: 有什么问题可以添加QQ群：<a href="https://jq.qq.com/?_wv=1027&k=UxUgYVV9">713320302</a><br>没有问题也可以进来闲聊哦~<br>欢迎访问我的<a href="https://pan.dreamfall.cn">“网盘”</a><br>本站已开通<a href="https://blog-old.dreamfall.cn/atom.xml">RSS推送</a>
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
