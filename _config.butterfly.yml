@@ -7,6 +7,7 @@
 #   name: link || icon
 
 menu:
+  前往新版: https://blog.dreamfall.cn || icon-new
   首页: / || icon-shouye
   导航 || icon-daohang:
     主页: https://mengluo.work || icon-zhuye
@@ -1025,7 +1026,7 @@ inject:
     - <script>function loadScript(src,callback){var script=document.createElement('script'),head=document.getElementsByTagName('head')[0];script.type='text/javascript';script.charset='UTF-8';script.src=src;if(script.addEventListener){script.addEventListener('load',function(){callback()},false)}else if(script.attachEvent){script.attachEvent('onreadystatechange',function(){var target=window.event.srcElement;if(target.readyState=='loaded'){callback()}})}head.appendChild(script)}</script>
     - <script>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/custom.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/custom/cdiytitle.js',()=>{})},0)</script>
-    - <script>setTimeout(()=>{loadScript('//at.alicdn.com/t/c/font_3174709_evtoyjkred.js',()=>{})},0)</script>
+    - <script>setTimeout(()=>{loadScript('//at.alicdn.com/t/c/font_3174709_mzmzkm3wlbr.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('//at.alicdn.com/t/font_2264842_3izu8i5eoc2.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/custom/fixed_comment.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/txmap.js',()=>{})},0)</script>
