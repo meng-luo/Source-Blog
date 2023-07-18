@@ -124,8 +124,8 @@ footer_beautify:
     name: footer-wrap
     index: 0
   # 计时器部分配置项
-  runtime_js: https://cdn.dreamfall.cn/hexo-butterfly-footer-beautify/lib/runtime.min.js
-  runtime_css: https://cdn.dreamfall.cn/hexo-butterfly-footer-beautify/lib/runtime.min.css
+  runtime_js: https://cdn1.tianli0.top/npm/hexo-butterfly-footer-beautify/lib/runtime.min.js
+  runtime_css: https://cdn1.tianli0.top/npm/hexo-butterfly-footer-beautify/lib/runtime.min.css
   # 徽标部分配置项
   swiperpara: 0 #若非0，则开启轮播功能，每行徽标个数
   bdageitem:
@@ -144,9 +144,9 @@ footer_beautify:
     - link: http://creativecommons.org/licenses/by-nc-sa/4.0/
       shields: https://img.dreamfall.cn/blog/5.svg
       message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
-  swiper_css: https://cdn.dreamfall.cn/hexo-butterfly-swiper/lib/swiper.min.css
-  swiper_js: https://cdn.dreamfall.cn/hexo-butterfly-swiper/lib/swiper.min.js
-  swiperbdage_init_js: https://cdn.dreamfall.cn/hexo-butterfly-footer-beautify/lib/swiperbdage_init.min.js
+  swiper_css: https://cdn1.tianli0.top/npm/hexo-butterfly-swiper/lib/swiper.min.css
+  swiper_js: https://cdn1.tianli0.top/npm/hexo-butterfly-swiper/lib/swiper.min.js
+  swiperbdage_init_js: https://cdn1.tianli0.top/npm/hexo-butterfly-footer-beautify/lib/swiperbdage_init.min.js
 
 wowjs:
   enable: true #控制动画开关。true是打开，false是关闭
@@ -161,9 +161,9 @@ wowjs:
       #iteration: 2 #选填项，动画重复的次数
     - class: card-widget
       style: animate__zoomIn
-  animate_css: https://cdn.dreamfall.cn/hexo-butterfly-wowjs/lib/animate.min.css
-  wow_js: https://cdn.dreamfall.cn/hexo-butterfly-wowjs/lib/wow.min.js
-  wow_init_js: https://cdn.dreamfall.cn/hexo-butterfly-wowjs/lib/wow_init.js
+  animate_css: https://cdn1.tianli0.top/npm/hexo-butterfly-wowjs/lib/animate.min.css
+  wow_js: https://cdn1.tianli0.top/npm/hexo-butterfly-wowjs/lib/wow.min.js
+  wow_init_js: https://cdn1.tianli0.top/npm/hexo-butterfly-wowjs/lib/wow_init.js
   
 # hexo-butterfly-swiper
 # see https://akilar.top/posts/8e1264d1/
@@ -177,10 +177,10 @@ swiper:
     name: recent-posts
     index: 0
   default_descr: 再怎么看我也不知道怎么描述它的啦！
-  swiper_css: https://cdn.dreamfall.cn/hexo-butterfly-swiper/lib/swiper.min.css #swiper css依赖
-  swiper_js: https://cdn.dreamfall.cn/hexo-butterfly-swiper/lib/swiper.min.js #swiper js依赖
-  custom_css: https://cdn.dreamfall.cn/hexo-butterfly-swiper/lib/swiperstyle.css # 适配主题样式补丁
-  custom_js: https://cdn.dreamfall.cn/hexo-butterfly-swiper/lib/swiper_init.js # swiper初始化方法
+  swiper_css: https://cdn1.tianli0.top/npm/hexo-butterfly-swiper/lib/swiper.min.css #swiper css依赖
+  swiper_js: https://cdn1.tianli0.top/npm/hexo-butterfly-swiper/lib/swiper.min.js #swiper js依赖
+  custom_css: https://cdn1.tianli0.top/npm/hexo-butterfly-swiper/lib/swiperstyle.css # 适配主题样式补丁
+  custom_js: https://cdn1.tianli0.top/npm/hexo-butterfly-swiper/lib/swiper_init.js # swiper初始化方法
 
 bangumi: # 追番设置
   enable: true
