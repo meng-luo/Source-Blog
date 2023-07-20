@@ -1,11 +1,3 @@
 # robots.txt generated at http://tool.chinaz.com/robots/ 
 User-agent: *
-Disallow: /img/
-Disallow: /photos/
-Disallow: https://meng-luo.github.io
-Disallow: https://meng-luo.github.io/*
-Disallow: http://meng-luo.github.io/*
-Disallow: http://meng-luo.github.io
-
-Sitemap: https://blog.dreamfall.cn/sitemap.xml
-Sitemap: http://blog.dreamfall.cn/baidusitemap.xml
+Disallow: /
