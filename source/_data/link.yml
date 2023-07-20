@@ -8,33 +8,30 @@
   link_list:
     - name: Akilar
       link: https://akilar.top/
-      avatar: https://img.dreamfall.cn/friend/avatar/akilar.webp
+      avatar: https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg
       descr: 欢迎光临糖果屋
-      siteshot: https://img.dreamfall.cn/friend/siteshot/akilar.top.webp
     - name: CC康纳百川
       link: https://blog.ccknbc.cc
-      avatar: https://img.dreamfall.cn/friend/avatar/ccknbc.webp
+      avatar: https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/ccknbc.png
       descr: CC康纳百川的小窝
-      siteshot: https://img.dreamfall.cn/friend/siteshot/blog.ccknbc.cc.webp
     - name: FantasyLand の 暗梦
-      link: https://darkace.pages.dev
-      avatar: https://img.dreamfall.cn/friend/avatar/darkace.webp
+      link: https://anmeng.eu.org
+      avatar: https://anmeng.eu.org/icon.jpg
       descr: 人生如戏，故事如诗。
-      siteshot: https://img.dreamfall.cn/friend/siteshot/darkace.xyz.webp
+      siteshot: https://anmeng.eu.org/mineblog_siteshot.png
     - name: Fomalhaut🥝
       link: https://www.fomal.cc/
-      avatar: https://img.dreamfall.cn/friend/avatar/fomal.webp
+      avatar:  https://www.fomal.cc/assets/head.jpg
       descr: Future is now 🍭🍭🍭
-      siteshot: https://img.dreamfall.cn/friend/siteshot/fomal.cc.webp
+      siteshot: https://image.thum.io/get/allowJPG/wait/20/width/600/crop/950/https://fomal.cc/
     - name: 黑喵客栈
       link: https://wangshuinn.com
-      avatar: https://wangshuinn.com/wp-content/uploads/2023/01/47fd3796c8220035.png
+      avatar: 
       descr: 一个有黑喵的神秘能量原神客栈
     - name: hohoyun
       link: http://www.hohoyun.cn
-      avatar: https://movie-zsh.oss-cn-beijing.aliyuncs.com/blog/hohoH.jpg
+      avatar:
       descr: Vue3 与 SpringBoot 的博客 模仿了 hexo 的 butterfly
-      siteshot: https://movie-zsh.oss-cn-beijing.aliyuncs.com/blog/blog/3.1Index.png
     - name: LanYun の Blog
       link: https://lanyundev.com/
       avatar: https://lanyundev.com/img/logo.jpg.webp
@@ -46,18 +43,17 @@
       descr: 欢迎来到我的书房，远道而来的客人。
     - name: 落雪の Cat
       link: https://blog.sayhi.moe/
-      avatar: https://img.dreamfall.cn/friend/avatar/sayhi.webp
+      avatar: https://pic.imgdb.cn/item/62a0287d0947543129ca2b11.jpg
       descr: 好神秘的一个人
-      siteshot: https://img.dreamfall.cn/friend/siteshot/blog.sayhi.moe.webp
     - name: LyShark - 孤风洗剑
       link: https://www.lyshark.com
       avatar: https://www.lyshark.com/images/baidu_logo.png
       descr: 道，可道，非常道；名，可名，非常名。—— 老子《道德经》
     - name: LYXの小破站
       link: https://yisous.xyz/
-      avatar: https://img.dreamfall.cn/friend/avatar/yisous.webp
+      avatar:  https://lanyundev.com/img/logo.jpg.webp
       descr: 	人有悲欢离合 月有阴晴圆缺
-      siteshot: https://img.dreamfall.cn/friend/siteshot/yisous.xyz.webp
+      siteshot: https://lanyundev.com/img/SiteScreenshot.png.webp
     - name: 满心 Hrn
       link: https://blog.lovelu.top/
       avatar: https://cdn.lovelu.top/img/logo.png
@@ -69,9 +65,8 @@
       siteshot: https://mccsjs.weie.top/img/a.jpg
     - name: MTBlack - 你我皆是黑马！
       link: https://www.lcoo.cc/
-      avatar: https://img.dreamfall.cn/friend/avatar/lcoo.webp
+      avatar: https://thirdqq.qlogo.cn/g?b=sdk&nk=739944778&s=100
       descr: 给时光以岁月，给岁月以文明。
-      siteshot: https://img.dreamfall.cn/friend/siteshot/lcoo.cc.webp
     - name: 七鳄の学习格
       link: https://blog.gmcj0816.top/
       avatar: https://blog.gmcj0816.top/img/SeriousWission_TouXiangPic.jpg
@@ -86,17 +81,16 @@
       link: https://blog.shineyu.cn/
       avatar: https://blog.shineyu.cn/img/shineyu_avatar.webp
       descr: "Let's go! Target: The Vast Stars!"
-      siteshot: https://img.dreamfall.cn/friend/siteshot/shineyull.github.io.webp
+      siteshot: https://s3.bmp.ovh/imgs/2022/12/28/fe2452f7c4ff48ee.png
     - name: StarYuhen
       link: https://www.yuhenm.com/
-      avatar: https://img.dreamfall.cn/friend/avatar/yuhenm.webp
+      avatar: https://www.yuhenm.com/imgs/yuhen.png
       descr: 好神秘的一个人
-      siteshot: https://img.dreamfall.cn/friend/siteshot/yuhenm.com.webp
     - name: 丘卡饮品店
       link: https://blog.zerolacqua.top
-      avatar: https://img.dreamfall.cn/friend/avatar/zerolacqua.webp
+      avatar:  https://unpkg.com/zerolacqua-assets/images/avatar.png
       descr: 要来点喝的吗？
-      siteshot: https://img.dreamfall.cn/friend/siteshot/zerolacqua.top.webp
+      siteshot: https://unpkg.com/zerolacqua-assets/images/siteshot.png
     - name: 糖茶砌站
       link: https://www.yozk.cn
       avatar: https://h1.yozk.cn/SugarBox/favicon/favicon.png
@@ -104,26 +98,14 @@
       siteshot: https://h1.yozk.cn/SugarBox/Screenshot_2023_0215_074117.jpg
     - name: 我曾踏足山巅丶
       link: https://blog.unanaos.com/
-      avatar: https://img.dreamfall.cn/friend/avatar/unanaos.webp
+      avatar: https://file.unanaos.com/avatar/avatar.png
       descr: 晨钟暮鼓 震悟大千
-      siteshot: https://img.dreamfall.cn/friend/siteshot/blog.unanaos.com.webp
-    - name: 忘忧草の小破站
-      link: https://owo.wyc.rest/
-      avatar: https://img.dreamfall.cn/friend/avatar/wyc.webp
-      descr: 这只是一个小破站而已！
-      siteshot: https://img.dreamfall.cn/friend/siteshot/owo.wyc.rest.webp
-    - name: 杏铃の小本
-      link: https://xn--8qvt52h.top/
-      avatar: https://img.dreamfall.cn/friend/avatar/xn--8qvt52h.webp
-      descr: 一份分享教程,游戏的礼物✧(≖ ◡ ≖✿)
-      siteshot: https://img.dreamfall.cn/friend/siteshot/xn--8qvt52h.top.webp
     - name: 小曦同桌
       link: https://www.sakuracio.com/
-      avatar: https://img.dreamfall.cn/friend/avatar/sakuracio.webp
+      avatar: https://share.sakuracio.com/avatar.jpg
       descr: 好神秘的一个人
-      siteshot: https://img.dreamfall.cn/friend/siteshot/sakuracio.com.webp
     - name: 张洪Heo
       link: https://blog.zhheo.com/
-      avatar: https://img.dreamfall.cn/friend/avatar/zhheo.webp
+      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
       descr: 分享设计与科技生活
-      siteshot: https://img.dreamfall.cn/friend/siteshot/blog.zhheo.com.webp
+      siteshot: https://bu.dusays.com/2023/03/03/6401bcbf1d33b.webp
