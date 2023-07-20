@@ -1044,7 +1044,7 @@ CDN:
   main_css:
   main:
   utils:
-  vue: https://cdnjs.cloudflare.com/ajax/libs/vue/3.3.4/vue.cjs.js  # vue.js依赖
+  vue: https://cdnjs.cloudflare.com/ajax/libs/vue/2.7.14/vue.min.js  # vue.js依赖
   coin_js: https://cdn.dreamfall.cn/js/coin.js
   coin_css: https://cdn.dreamfall.cn/css/coin.css
 
