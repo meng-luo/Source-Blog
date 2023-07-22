@@ -267,7 +267,7 @@ post_copyright:
 # Sponsor/reward
 reward:
   enable: true
-  coinAudio: https://img.dreamfall.cn/blog/coin.mp3
+  coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.16/audio/coin.mp3
   QR_code:
     - img: https://img.dreamfall.cn/blog/WeChat.webp
       link: https://img.dreamfall.cn/blog/WeChat.webp
@@ -1031,9 +1031,9 @@ inject:
     - <script>setTimeout(()=>{loadScript('/js/custom/fixed_comment.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('/js/txmap.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('/js/custom/sun_moon.js',()=>{})},0)</script>
-    - <script>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/fixed_card_widget.js',()=>{})},0)</script>
+    - <script>setTimeout(()=>{loadScript('/js/custom/fixed_card_widget.js',()=>{})},0)</script>
     - <div class="aplayer no-destroy" data-id="101743079" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="false" muted></div>
-    - <script async>setTimeout(()=>{loadScript('https://cdn.dreamfall.cn/js/commentBarrage.js',()=>{})},0)</script>
+    - <script async>setTimeout(()=>{loadScript('/js/custom/commentBarrage.js',()=>{})},0)</script>
     - <script>setTimeout(()=>{loadScript('https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js',()=>{})},0)</script>
     - <script >setInterval(()=>{let create_time=Math.round(new Date("2021-7-23 18:50:00").getTime()/1000);let timestamp=Math.round((new Date().getTime()+8*60*60*1000)/1000);let second=timestamp-create_time;let time=new Array(0,0,0,0,0);if(second>=365*24*3600){time[0]=parseInt(second/(365*24*3600));second%=365*24*3600}if(second>=24*3600){time[1]=parseInt(second/(24*3600));second%=24*3600}if(second>=3600){time[2]=parseInt(second/3600);second%=3600}if(second>=60){time[3]=parseInt(second/60);second%=60}if(second>0){time[4]=second}currentTimeHtml='本站已经安全运行 '+time[0]+' 年 '+time[1]+' 天 '+time[2]+' 时 '+time[3]+' 分 '+time[4]+' 秒';var elementById=document.getElementById('running-time');if(elementById){elementById.innerHTML=currentTimeHtml}},1000);</script>
 # CDN
@@ -1045,8 +1045,8 @@ CDN:
   main:
   utils:
   vue: https://cdnjs.cloudflare.com/ajax/libs/vue/2.7.14/vue.min.js  # vue.js依赖
-  coin_js: https://cdn.dreamfall.cn/js/coin.js
-  coin_css: https://cdn.dreamfall.cn/css/coin.css
+  coin_js: https://npm.elemecdn.com/akilar-candyassets@1.0.16/js/coin.js
+  coin_css: https://npm.elemecdn.com/akilar-candyassets@1.0.16/css/coin.css
 
   # pjax
   pjax: https://cdnjs.cloudflare.com/ajax/libs/pjax/0.2.8/pjax.min.js
