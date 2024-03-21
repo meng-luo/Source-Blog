@@ -12,9 +12,7 @@ menu:
   导航 || icon-daohang:
     主页: https://mengluo.work || icon-zhuye
     网盘: https://pan.dreamfall.cn || icon-a-wangpancunchuyingpandiqiu
-    网站监控: https://status.mengluo.work/status/web || icon-zhuangtaixinxi
-    播放器: https://player.mengluo.work || icon-Music
-    服务器监控: https://server.mengluo.work || icon-server
+    网站监控: https://status.mengluo.work/ || icon-zhuangtaixinxi
   目录 || icon-mulu:
     时间轴: /archives/ || icon-fsux_tubiao_shijianzhoutu
     标签: /tags/ || icon-biaoqian
@@ -28,13 +26,7 @@ menu:
     追剧: /cinemas/ || icon-zhuizhuiju
     音乐: /music/ || icon-yinle
     视频: /video/ || icon-shipin
-  镜像站 || icon-jingxiang:
-    Vercel: https://vercel.mengluo.tk || icon-logo-vercel
-    Gitee: https://meng-luo.gitee.io || icon-gitee
-    Github: https://github.mengluo.tk || icon-github
-    Azure: https://azure.mengluo.tk || icon-azure
   关于: /about/ || icon-guanyu
-  管理后台: https://admin.dreamfall.cn || icon-houtaiguanli
 
 
 categoryBar:
@@ -82,7 +74,7 @@ copy:
 social:
   bilibili: https://space.bilibili.com/380535457 || icon-bilibili
   github: https://github.com/meng-luo || icon-github
-  Email: mailto:guorongdan4506@163.com || icon-youxiang
+  Email: mailto:admin@mengluo.work || icon-youxiang
   qq: https://wpa.qq.com/msgrd?v=3&uin=2593514967&site=qq&menu=yes || icon-QQ
   rss: https://blog-old.dreamfall.cn/atom.xml || icon-RSS
 
@@ -1017,8 +1009,6 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <script>!function(p){"use strict";!function(t){var s=window,e=document,i=p,c="".concat("https:"===e.location.protocol?"https://":"http://","sdk.51.la/js-sdk-pro.min.js"),n=e.createElement("script"),r=e.getElementsByTagName("script")[0];n.type="text/javascript",n.setAttribute("charset","UTF-8"),n.async=!0,n.src=c,n.id="LA_COLLECT",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:"JfxdPlPgJn69L5Ul",ck:"JfxdPlPgJn69L5Ul"});</script>
-    - <script>!(function(c,i,e,b){var h=i.createElement("script");var f=i.getElementsByTagName("script")[0];h.type="text/javascript";h.crossorigin=true;h.onload=function(){new c[b]["Monitor"]().init({id:"Jfxdko5pT9s5SEQh"})};f.parentNode.insertBefore(h,f);h.src=e})(window,document,"https://sdk.51.la/perf/js-sdk-perf.min.js","LingQue");</script>
     - <link rel="stylesheet" href="/css/screen.css">
     - <style id="barragesColor"></style>
   bottom:
